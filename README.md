@@ -4,6 +4,8 @@
 
 ### Hi there 👋
 
+![Metrics](/github-metrics.svg)
+
 </samp>
 
 </div>
