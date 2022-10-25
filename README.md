@@ -2,7 +2,7 @@
 
 <samp>
 
-### Hi there 👋
+### Hi there 👋 This is my profile
 
 🌱 I’m currently learning ...
 
@@ -37,5 +37,8 @@ https://docs.github.com/ja/enterprise-server@3.5/account-and-profile/setting-up-
 
 スキルアイコンの解説
 https://qiita.com/s-yoshiki/items/436bbe1f7160b610b05c
+
+参考にしているサイト
+https://github.com/ryuma017
 
 -->
