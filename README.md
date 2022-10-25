@@ -8,6 +8,7 @@
 
 ![Kotlin: Advanced Beginner](https://img.shields.io/badge/Kotlin-Advanced%20Beginner-3D8ECC?style=for-the-badge&logo=kotlin&logoColor=F05138)
 ![Swift: Advanced Beginner](https://img.shields.io/badge/Swift-Advanced%20Beginner-3D8ECC?style=for-the-badge&logo=swift&logoColor=F05138)
+![Swift: Advanced Beginner](https://img.shields.io/badge/Blender-Advanced%20Beginner-3D8ECC?style=for-the-badge&logo=blender&logoColor=F05138)
 
 </samp>
 
@@ -28,6 +29,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 参考サイト
+
+READMEの解説
 https://docs.github.com/ja/enterprise-server@3.5/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
+
+スキルアイコンの解説
+https://qiita.com/s-yoshiki/items/436bbe1f7160b610b05c
 
 -->
