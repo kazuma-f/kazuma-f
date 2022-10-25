@@ -4,7 +4,9 @@
 
 ### Hi there 👋
 
-![Metrics](/github-metrics.svg)
+- 🌱 I’m currently learning ...
+
+![Swift: Advanced Beginner](https://img.shields.io/badge/Swift-Advanced%20Beginner-3D8ECC?style=for-the-badge&logo=swift&logoColor=F05138)
 
 </samp>
 
