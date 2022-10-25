@@ -1,5 +1,8 @@
+<div align="center">
+<samp>
 ### Hi there 👋
-
+</samp>
+</div>
 <!--
 **kazuma-f/kazuma-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
