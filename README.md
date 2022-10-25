@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning ...
 
-![Kotlin: Advanced Beginner](https://img.shields.io/badge/Swift-Advanced%20Beginner-3D8ECC?style=for-the-badge&logo=kotlin&logoColor=F05138)
+![Kotlin: Advanced Beginner](https://img.shields.io/badge/Kotlin-Advanced%20Beginner-3D8ECC?style=for-the-badge&logo=kotlin&logoColor=F05138)
 ![Swift: Advanced Beginner](https://img.shields.io/badge/Swift-Advanced%20Beginner-3D8ECC?style=for-the-badge&logo=swift&logoColor=F05138)
 
 </samp>
